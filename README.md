@@ -1,4 +1,3 @@
-# socket-client-server
 # Client-Server File Handling Application with Mirror Server
 
 This repository contains a simple client-server application for handling file-related commands. The application allows clients to interact with a main server and optionally switch to a mirror server for load balancing or fault tolerance.
