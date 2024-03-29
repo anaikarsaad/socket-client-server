@@ -43,6 +43,6 @@ If you'd like to contribute to the project, please follow the standard GitHub Fo
 
 ## Acknowledgments
 
-- This project was developed by Harish Kumaravel.
+- This project was developed by Muhammed Saad Anaikar and Harish Kumaravel.
 - Special thanks to Dr. Prashanth C. Ranga.
 
